@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo0
-Fork on GitHub0
 <h1 align="center">Hi, I'm Abhay P Aneesh</h1>
 <h3 align="center">A fellow Cybersecurity Enthusiast 😁</h3>
 
