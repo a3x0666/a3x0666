@@ -1,15 +1,12 @@
 <h1 align="center">Hi, I'm Abhay P Aneesh</h1>
 <h3 align="center">A fellow Cybersecurity Enthusiast 😁</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a3x0666&label=Profile%20views&color=0e75b6&style=flat" alt="a3x0666" /> </p>
-
-- I’m currently learning **Bash Scripting, Cyber-tools**
+- I’m currently learning **Bash Scripting**
 
 - 💬 Ask me about **Python, Linux, WebDev, Bash**
 
 - How to reach me **cruisestorm143@gmail.com**
 
-  https://a3x0666.github.io/Portfolio/ <~
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
